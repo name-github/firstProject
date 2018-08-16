@@ -11,7 +11,7 @@
     <title>Title</title>
 </head>
 <br>
- test.jsp页面的值：测试是否按照指定的jsp名称返回响应的页面值！
+ test.jsp页面：测试当前页面是否与welcomeController关联显示正确！
 <br/>${msg}
 </body>
 </html>
