@@ -12,8 +12,8 @@
 </head>
 <body>
 使用intellij IDEA 搭建Spring MVC 成功！
-部署成功！
-运行成功！
+<br/>部署成功！
+<br/>运行成功！
 <br/>${msg}
 </body>
 </html>
